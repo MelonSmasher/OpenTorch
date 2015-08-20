@@ -1,4 +1,4 @@
-package com.melonsmasher.ost;
+package com.melonsmasher.opentorch;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
